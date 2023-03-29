@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: violet;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    border-radius: 30px;
+    width: 70px;
+    height: 50px;
+    color: read-write;
+    background-color: purple;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+button:hover {
+    background: violet;
+}
